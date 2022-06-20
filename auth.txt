@@ -1,1 +1,2 @@
 
+{"DeviceId":"a222edcefe1c99885e88e16b22b19b77","GoogleId":"","FacebookId":"","Token":"DIBHKD3akM92TfvlVFF3wgTJcN26v3UK","Timestamp":1655704072,"Hash":"f46042b6e8a112ed23f54fc3f66580a3062a23b1"}
